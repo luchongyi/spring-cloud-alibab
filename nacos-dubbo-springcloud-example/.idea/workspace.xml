@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd70deb4-24e5-4d55-a8b4-9fb554f1fc10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\USER\.m2\repository" />
+        <option name="mavenHome" value="E:/lcy/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gfG5Q5RPpQRg6h7IJIc5hz5gpJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.joey.nacos.nacosdubbospringcloudapi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NacosDubboSpeingcloudProviderApplication">
+    <configuration name="NacosDubboSpeingcloudConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-dubbo-speingcloud-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.joey.nacos.nacosdubbospeingcloudconsumer.NacosDubboSpeingcloudConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosDubboSpeingcloudProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-dubbo-speingcloud-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.joey.nacos.nacosdubbospeingcloudprovider.NacosDubboSpeingcloudProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosDubboSpringcloudApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-dubbo-springcloud-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.joey.nacos.nacosdubbospringcloudapi.NacosDubboSpringcloudApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd70deb4-24e5-4d55-a8b4-9fb554f1fc10" name="Default Changelist" comment="" />
+      <created>1598498050063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598498050063</updated>
+      <workItem from="1598498058173" duration="14411000" />
+      <workItem from="1598519607595" duration="6747000" />
+      <workItem from="1598580854926" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1598517416462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598517416462" />
+    <state x="530" y="333" width="860" height="380" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598517404529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="333" width="860" height="380" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598517404529" />
+    <state x="690" y="219" key="FileChooserDialogImpl" timestamp="1598511075679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="219" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598511075679" />
+    <state width="1864" height="128" key="GridCell.Tab.0.bottom" timestamp="1598580833557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833557" />
+    <state width="1864" height="128" key="GridCell.Tab.0.center" timestamp="1598580833556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833556" />
+    <state width="1864" height="128" key="GridCell.Tab.0.left" timestamp="1598580833553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833553" />
+    <state width="1864" height="128" key="GridCell.Tab.0.right" timestamp="1598580833557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833557" />
+    <state width="1864" height="128" key="GridCell.Tab.1.bottom" timestamp="1598580833557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833557" />
+    <state width="1864" height="128" key="GridCell.Tab.1.center" timestamp="1598580833557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833557" />
+    <state width="1864" height="128" key="GridCell.Tab.1.left" timestamp="1598580833557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833557" />
+    <state width="1864" height="128" key="GridCell.Tab.1.right" timestamp="1598580833557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833557" />
+    <state width="1864" height="128" key="GridCell.Tab.2.bottom" timestamp="1598580833558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833558" />
+    <state width="1864" height="128" key="GridCell.Tab.2.center" timestamp="1598580833557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833557" />
+    <state width="1864" height="128" key="GridCell.Tab.2.left" timestamp="1598580833557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833557" />
+    <state width="1864" height="128" key="GridCell.Tab.2.right" timestamp="1598580833558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="128" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598580833558" />
+    <state x="377" y="94" key="Maven.ArtifactSearchDialog" timestamp="1598517096558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="94" key="Maven.ArtifactSearchDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598517096558" />
+    <state x="330" y="63" key="SettingsEditor" timestamp="1598514829930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="63" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598514829930" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598511343918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598511343918" />
+    <state x="155" y="37" width="1609" height="701" key="new project wizard" timestamp="1598501654244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="155" y="37" width="1609" height="701" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598501654244" />
+  </component>
+</project>
